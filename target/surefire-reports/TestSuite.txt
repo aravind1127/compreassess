@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 540.227 s <<< FAILURE! - in TestSuite
+com.mindtree.runner.BDDTestRunner.runScenario["Validating With valid UserName And Password", "Optional[Log in Validation]"](7)  Time elapsed: 37.475 s  <<< FAILURE!
+com.mindtree.exceptions.PageObjectException: Logged in failed
+
